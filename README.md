@@ -1,16 +1,12 @@
 <div align="center">
 
 <!-- 打字动画 Banner - 动态效果 -->
-<!-- 第一行 -->
-[! [Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&width=600&lines=Hello%2C+I%27m+AM-SuSh;repeat=false)](https://git.io/typing-svg)
-<br/>
-<!-- 第二行 -->
-[! [Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=58A6FF&width=600&lines=Exploring+the+boundaries+of+AI;repeat=false)](https://git.io/typing-svg)
-<br/>
-<!-- 第三行 -->
-[! [Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=5000&pause=1000&color=58A6FF&width=600&lines=Stay+hungry%2C+stay+foolish.;repeat=false)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=999999&color=58A6FF&center=true&vCenter=true&width=600&lines=Exploring+the+boundaries+of+AI" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=8000&pause=999999&color=58A6FF&center=true&vCenter=true&width=600&lines=Stay+hungry%2C+stay+foolish." />
+</div>
 
----
 
 ### 🛠️ 技术栈
 
@@ -24,18 +20,19 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 
----
+[//]: # (<!-- 动态统计卡片 -->)
 
-### 📊 GitHub 统计
+[//]: # (<img src="https://github-readme-stats.vercel.app/api?username=AM-SuSh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" width="49%"/>)
 
-<!-- 动态统计卡片 -->
-<img src="https://github-readme-stats.vercel.app/api?username=AM-SuSh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AM-SuSh&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" width="49%"/>
+[//]: # (<img src="https://github-readme-streak-stats.herokuapp.com/?user=AM-SuSh&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" width="49%"/>)
 
-<!-- 语言统计 - 动态图表 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AM-SuSh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" width="100%"/>
+[//]: # ()
+[//]: # (<!-- 语言统计 - 动态图表 -->)
 
----
+[//]: # (<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AM-SuSh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" width="100%"/>)
+
+[//]: # ()
+[//]: # (---)
 
 
 <!-- 根据系统主题自动切换亮/暗色 Snake 动画 -->
