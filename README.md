@@ -46,7 +46,7 @@
 <!-- 动态活动贡献图 -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AM-SuSh&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=79C0FF&point=FF6B6B" alt="Contribution Graph" width="100%"/>
 
-<h3><font face="Times New Roman, KaiTi, STKaiti">🚀 已完成项目</font></h3>
+<h3><font face="Times New Roman, KaiTi, STKaiti">🚀 Projects</font></h3>
 
 <font face="Times New Roman, KaiTi, STKaiti">
 
@@ -57,27 +57,102 @@
         <font face="Times New Roman, KaiTi, STKaiti" size="4"><b>AI 研发类</b></font><br/>
         <font face="Times New Roman, KaiTi, STKaiti"><i>Agents · RAG · Research</i></font>
       </p>
-      <pre><b><a href="https://github.com/AM-SuSh/PPTAS">PPTAS · PPT Agent System</a></b><br/>PPT——AI 学习系统</pre>
-      <p><i>—— Code exists. Still evolving. ——</i></p>
-      <pre><b>PaperLens</b><br/>智能论文阅读平台</pre>
-      <pre><b>AAIC</b><br/>AI伴侣严肃分析</pre>
-      <pre><b>smart-grid-web</b><br/>智能电网分析系统</pre>
+      <h3 align="left">🔹 PPTAS</h3>
+      <blockquote>
+        <p align="left">
+          AI-powered agent for PPT content expansion<br/>
+           AI 驱动的 PPT 内容扩展智能体
+        </p>
+      </blockquote>
+      <ul align="left">
+        <li>自动解析结构 · 语义检索 · 知识扩展</li>
+        <li>构建知识框架，提升学习效率</li>
+      </ul>
+      <p align="left">🔗 <a href="https://github.com/AM-SuSh/PPTAS">github.com/AM-SuSh/PPTAS</a></p>
+      <br/>
+      <h3 align="left">🔹 PaperLens</h3>
+      <blockquote>
+        <p align="left">
+          Intelligent Research Paper Reading Platform<br/>
+          智能论文阅读平台
+        </p>
+      </blockquote>
+      <p align="left"><i>Testing. Welcome to join our beta!</i></p>
+      <br/>
+      <h3 align="left">🔹 AAIC</h3>
+      <blockquote>
+        <p align="left">
+          AI-mediated Alterations in Interpersonal Contact<br/>
+          AI伴侣对人类现实社交模式影响研究
+        </p>
+      </blockquote>
+      <p align="left"><i>持续建设中</i></p>
+      <br/>
+      <h3 align="left">🔹 smart-grid-web</h3>
+      <blockquote>
+        <p align="left">
+          AI-Powered Intelligent Generation System for Engineering Consulting Reports<br/>
+          AI驱动的工程咨询报告智能生成系统
+        </p>
+      </blockquote>
+      <p align="left"><i>持续建设中</i></p>
       <!--
       AI 研发类项目模板：
-      <pre><b>项目名</b><br/>一句项目简介。</pre>
+      <h3 align="left">🔹 项目名</h3>
+      <blockquote><p align="left">English intro.<br/>中文简介。</p></blockquote>
+      <ul align="left"><li>能力一</li><li>能力二</li></ul>
+      <p align="left"><i>Private status.</i></p>
       -->
     </td>
     <td width="824" valign="top" align="center">
       <p>
-        <font face="Times New Roman, KaiTi, STKaiti" size="4"><b>工具类 / Tools</b></font><br/>
-        <font face="Times New Roman, KaiTi, STKaiti"><i>OpenRank · 2LL · SoFT</i></font>
+        <font face="Times New Roman, KaiTi, STKaiti" size="4"><b>工具类</b></font><br/>
+        <font face="Times New Roman, KaiTi, STKaiti"><i>Tools · Idea</i></font>
       </p>
-      <pre><b><a href="https://github.com/SSSSizn/OpenRank">OpenRank</a></b><br/>Python 开源生态依赖分析工具</pre>
-      <pre><b><a href="https://github.com/AM-SuSh/2LL">2LL</a></b><br/>双栏中英 Markdown 编辑器</pre>
-      <pre><b><a href="https://github.com/AM-SuSh/SoFT">SoFT</a></b><br/>本地专注工作台</pre>
+      <h3 align="left">🔹 OpenRank</h3>
+      <blockquote>
+        <p align="left">
+          Dependency intelligence for the Python open-source ecosystem.<br/>
+          面向 Python 开源生态的依赖分析与版本决策工具
+        </p>
+      </blockquote>
+      <ul align="left">
+        <li>静态检查 · 依赖关系分析 · 版本建议</li>
+        <li>浏览器扩展与可视化仪表盘</li>
+      </ul>
+      <p align="left">🔗 <a href="https://github.com/SSSSizn/OpenRank">github.com/SSSSizn/OpenRank</a></p>
+      <br/>
+      <h3 align="left">🔹 2LL</h3>
+      <blockquote>
+        <p align="left">
+          LLM-powered bilingual Markdown workspace.<br/>
+          面向双语编辑的双栏 Markdown 编辑器
+        </p>
+      </blockquote>
+      <ul align="left">
+        <li>中英双语 · 双栏同步滚动</li>
+        <li>Markdown 编辑 · PDF 导出</li>
+      </ul>
+      <p align="left">🔗 <a href="https://github.com/AM-SuSh/2LL">github.com/AM-SuSh/2LL</a></p>
+      <br/>
+      <h3 align="left">🔹 SoFT</h3>
+      <blockquote>
+        <p align="left">
+          A focused local workspace built for Windows.<br/>
+          整合专注计时、任务规划与日程管理的本地工作台
+        </p>
+      </blockquote>
+      <ul align="left">
+        <li>DDL 管理 · 任务优先级 · 专注计时</li>
+        <li>日历整合与本地化工作流</li>
+      </ul>
+      <p align="left">🔗 <a href="https://github.com/AM-SuSh/SoFT">github.com/AM-SuSh/SoFT</a></p>
       <!--
       工具类项目模板：
-      <pre><b><a href="项目链接">项目名</a></b><br/>一句项目简介。</pre>
+      <h3 align="left">🔹 项目名</h3>
+      <blockquote><p align="left">English intro.<br/>中文简介。</p></blockquote>
+      <ul align="left"><li>能力一</li><li>能力二</li></ul>
+      <p align="left">🔗 <a href="项目链接">项目链接</a></p>
       -->
     </td>
   </tr>
