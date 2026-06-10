@@ -80,7 +80,7 @@
       </ul>
     </td>
     <td width="824" valign="top" align="left">
-      <h3 align="left">🔹 <a href="https://github.com/SSSSizn/OpenRank">OpenRank</a></h3>
+      <h3 align="left">🔹 <a href="https://github.com/SSSSizn/OpenRank">PyAnalyzer</a></h3>
       <blockquote>
         <p align="left">
           Dependency intelligence for the Python open-source ecosystem.<br/>
