@@ -52,71 +52,32 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top" align="center">
+    <td width="824" valign="top" align="center">
       <p>
         <font face="Times New Roman, KaiTi, STKaiti" size="4"><b>AI 研发类</b></font><br/>
         <font face="Times New Roman, KaiTi, STKaiti"><i>Agents · RAG · Research</i></font>
       </p>
-      <blockquote>
-        <p>
-          <b><a href="https://github.com/AM-SuSh/PPTAS">PPTAS · PPT Agent System</a></b><br/>
-          PPT——AI 学习系统
-        </p>
-      </blockquote>
+      <pre><b><a href="https://github.com/AM-SuSh/PPTAS">PPTAS · PPT Agent System</a></b><br/>PPT——AI 学习系统</pre>
       <p><i>—— Code exists. Still evolving. ——</i></p>
-      <blockquote>
-        <p>
-          <b>PaperLens</b><br/>
-          智能论文阅读平台
-        </p>
-      </blockquote>
-      <blockquote>
-        <p>
-          <b>AAIC</b><br/>
-          AI伴侣严肃分析
-        </p>
-      </blockquote>
-      <blockquote>
-        <p>
-          <b>smart-grid-web</b><br/>
-          智能电网分析系统
-        </p>
-      </blockquote>
+      <pre><b>PaperLens</b><br/>智能论文阅读平台</pre>
+      <pre><b>AAIC</b><br/>AI伴侣严肃分析</pre>
+      <pre><b>smart-grid-web</b><br/>智能电网分析系统</pre>
       <!--
       AI 研发类项目模板：
-      <blockquote>
-        <p><b>项目名</b><br/>一句项目简介。</p>
-      </blockquote>
+      <pre><b>项目名</b><br/>一句项目简介。</pre>
       -->
     </td>
-    <td width="50%" valign="top" align="center">
+    <td width="824" valign="top" align="center">
       <p>
         <font face="Times New Roman, KaiTi, STKaiti" size="4"><b>工具类 / Tools</b></font><br/>
         <font face="Times New Roman, KaiTi, STKaiti"><i>OpenRank · 2LL · SoFT</i></font>
       </p>
-      <blockquote>
-        <p>
-          <b><a href="https://github.com/SSSSizn/OpenRank">OpenRank</a></b><br/>
-          Python 开源生态依赖分析工具
-        </p>
-      </blockquote>
-      <blockquote>
-        <p>
-          <b><a href="https://github.com/AM-SuSh/2LL">2LL</a></b><br/>
-          双栏中英 Markdown 编辑器
-        </p>
-      </blockquote>
-      <blockquote>
-        <p>
-          <b><a href="https://github.com/AM-SuSh/SoFT">SoFT</a></b><br/>
-          本地专注工作台
-        </p>
-      </blockquote>
+      <pre><b><a href="https://github.com/SSSSizn/OpenRank">OpenRank</a></b><br/>Python 开源生态依赖分析工具</pre>
+      <pre><b><a href="https://github.com/AM-SuSh/2LL">2LL</a></b><br/>双栏中英 Markdown 编辑器</pre>
+      <pre><b><a href="https://github.com/AM-SuSh/SoFT">SoFT</a></b><br/>本地专注工作台</pre>
       <!--
       工具类项目模板：
-      <blockquote>
-        <p><b><a href="项目链接">项目名</a></b><br/>一句项目简介。</p>
-      </blockquote>
+      <pre><b><a href="项目链接">项目名</a></b><br/>一句项目简介。</pre>
       -->
     </td>
   </tr>
