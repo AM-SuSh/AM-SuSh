@@ -61,55 +61,40 @@
           <img src="https://img.shields.io/badge/PROJECTS-4-2EA043?style=flat-square&labelColor=0D1117" alt="Four projects" />
         </summary>
         <br/>
-        <a href="https://github.com/AM-SuSh/PPTAS">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AM-SuSh&repo=PPTAS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="PPTAS Repo Card" width="100%" />
-        </a>
-        <p>
-          <b>PPTAS · PPT Agent System</b><br/>
-          将静态 PPT 转化为可检索、可扩展、可复习的 AI 学习系统，覆盖结构分析、思维导图、语义检索与智能笔记。
-        </p>
-        <p><a href="https://github.com/AM-SuSh/PPTAS"><b>View repository →</b></a></p>
-        <hr/>
-        <p>
-          <img src="https://img.shields.io/badge/PRIVATE-LAB-58A6FF?style=flat-square&labelColor=0D1117" alt="Private lab" />
-          <img src="https://img.shields.io/badge/STILL-EVOLVING-8B949E?style=flat-square&labelColor=0D1117" alt="Still evolving" />
-        </p>
-        <table width="100%">
-          <tr>
-            <td width="50%" valign="top" align="center">
-              <p><b><a href="https://github.com/AM-SuSh/PaperLens">PaperLens</a></b></p>
-              <p>论文阅读与研究整理工具，聚焦解析、重点提取和线索梳理。</p>
-              <p><i>镜头还在对焦。</i></p>
-            </td>
-            <td width="50%" valign="top" align="center">
-              <p><b><a href="https://github.com/AM-SuSh/AAIC">AAIC</a></b></p>
-              <p>仍在打磨中的 AI 研发项目，核心能力暂不公开。</p>
-              <p><i>实验进行中。</i></p>
-            </td>
-          </tr>
-          <tr>
-            <td colspan="2" valign="top" align="center">
-              <p><b><a href="https://github.com/SSSSizn/smart-grid-web">smart-grid-web</a></b></p>
-              <p>智能电网数据、运行状态与调度信息的可视化 Web 系统。</p>
-              <p><i>页面还在蓄能。</i></p>
-            </td>
-          </tr>
-        </table>
+        <blockquote>
+          <p>
+            <b><a href="https://github.com/AM-SuSh/PPTAS">PPTAS · PPT Agent System</a></b><br/>
+            将静态 PPT 转化为可检索、可扩展、可复习的 AI 学习系统。
+          </p>
+        </blockquote>
+        <blockquote>
+          <p>
+            <b>PaperLens</b><br/>
+            论文阅读与研究整理工具，聚焦文献解析、重点提取和研究线索梳理。<br/>
+            <i>镜头还在对焦。</i>
+          </p>
+        </blockquote>
+        <blockquote>
+          <p>
+            <b>AAIC</b><br/>
+            仍在打磨中的 AI 研发项目，核心能力暂不公开。<br/>
+            <i>实验进行中。</i>
+          </p>
+        </blockquote>
+        <blockquote>
+          <p>
+            <b>smart-grid-web</b><br/>
+            智能电网数据、运行状态与调度信息的可视化 Web 系统。<br/>
+            <i>页面还在蓄能。</i>
+          </p>
+        </blockquote>
         <p><i>Code exists. Still evolving. 保密期还没过呢。</i></p>
       </details>
       <!--
-      AI 研发类项目模板：复制到上方 details 内继续添加。
-
-      <hr/>
-      <a href="项目链接">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AM-SuSh&repo=仓库名&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Repo Card" />
-      </a>
-      <p><b>项目名 · 一句话定位</b><br/>项目简介</p>
-      <ul align="left">
-        <li>项目亮点 1</li>
-        <li>项目亮点 2</li>
-      </ul>
-      <p>🔗 项目链接</p>
+      AI 研发类项目模板：
+      <blockquote>
+        <p><b>项目名</b><br/>一句项目简介。</p>
+      </blockquote>
       -->
     </td>
     <td width="50%" valign="top" align="center">
@@ -121,95 +106,29 @@
           <img src="https://img.shields.io/badge/PROJECTS-3-2EA043?style=flat-square&labelColor=0D1117" alt="Three projects" />
         </summary>
         <br/>
-        <a href="https://github.com/SSSSizn/OpenRank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SSSSizn&repo=OpenRank&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="OpenRank Repo Card" width="100%" />
-        </a>
-        <p>
-          <b>OpenRank · Python Open Source Dependency Analyzer</b><br/>
-          Python 开源生态依赖分析工具，覆盖静态检查、兼容版本建议、浏览器扩展和 Web 仪表盘。
-        </p>
-        <p><a href="https://github.com/SSSSizn/OpenRank"><b>View repository →</b></a></p>
-        <hr/>
-        <a href="https://github.com/AM-SuSh/2LL">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AM-SuSh&repo=2LL&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="2LL Repo Card" width="100%" />
-        </a>
-        <p>
-          <b>2LL · Bilingual Markdown Workspace</b><br/>
-          双栏中英 Markdown 编辑器，支持 LLM 翻译、同步滚动、自动保存、双语预览和 PDF 导出。
-        </p>
-        <p><a href="https://github.com/AM-SuSh/2LL"><b>View repository →</b></a></p>
-        <hr/>
-        <a href="https://github.com/AM-SuSh/SoFT">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AM-SuSh&repo=SoFT&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="SoFT Repo Card" width="100%" />
-        </a>
-        <p>
-          <b>SoFT · Story of Focus Time</b><br/>
-          Windows 本地专注工作台，整合计时、DDL、动态任务优先级和 Outlook/.ics 日历。
-        </p>
-        <p><a href="https://github.com/AM-SuSh/SoFT"><b>View repository →</b></a></p>
+        <blockquote>
+          <p>
+            <b><a href="https://github.com/SSSSizn/OpenRank">OpenRank</a></b><br/>
+            Python 开源生态依赖分析工具，覆盖静态检查、版本建议和可视化仪表盘。
+          </p>
+        </blockquote>
+        <blockquote>
+          <p>
+            <b><a href="https://github.com/AM-SuSh/2LL">2LL</a></b><br/>
+            双栏中英 Markdown 编辑器，支持 LLM 翻译、同步滚动和 PDF 导出。
+          </p>
+        </blockquote>
+        <blockquote>
+          <p>
+            <b><a href="https://github.com/AM-SuSh/SoFT">SoFT</a></b><br/>
+            Windows 本地专注工作台，整合计时、DDL、任务优先级和日历。
+          </p>
+        </blockquote>
         <!--
-        工具类项目模板：复制到上方 details 内继续添加。
-
-        <hr/>
-        <a href="项目链接">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AM-SuSh&repo=仓库名&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Repo Card" />
-        </a>
-        <p><b>项目名 · 一句话定位</b><br/>项目简介</p>
-        <ul align="left">
-          <li>项目亮点 1</li>
-          <li>项目亮点 2</li>
-        </ul>
-        <p>🔗 项目链接</p>
-        -->
-      </details>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <details>
-        <summary>
-          <font face="Times New Roman, KaiTi, STKaiti" size="4"><b>🎨 前端 / 可视化类</b></font><br/>
-          <font face="Times New Roman, KaiTi, STKaiti"><i>Web · UI · Visualization</i></font><br/>
-          <img src="https://img.shields.io/badge/OPEN-DRAWER-58A6FF?style=flat-square&labelColor=0D1117" alt="Open drawer" />
-          <img src="https://img.shields.io/badge/READY-SLOT-8B949E?style=flat-square&labelColor=0D1117" alt="Ready slot" />
-        </summary>
-        <br/>
-        <!--
-        前端/可视化项目模板：复制到这里。
-
-        <a href="项目链接">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AM-SuSh&repo=仓库名&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Repo Card" />
-        </a>
-        <p><b>项目名 · 一句话定位</b><br/>项目简介</p>
-        <ul align="left">
-          <li>项目亮点 1</li>
-          <li>项目亮点 2</li>
-        </ul>
-        <p>🔗 项目链接</p>
-        -->
-      </details>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <details>
-        <summary>
-          <font face="Times New Roman, KaiTi, STKaiti" size="4"><b>📦 其他项目 / Others</b></font><br/>
-          <font face="Times New Roman, KaiTi, STKaiti"><i>Coursework · Experiments</i></font><br/>
-          <img src="https://img.shields.io/badge/OPEN-DRAWER-58A6FF?style=flat-square&labelColor=0D1117" alt="Open drawer" />
-          <img src="https://img.shields.io/badge/READY-SLOT-8B949E?style=flat-square&labelColor=0D1117" alt="Ready slot" />
-        </summary>
-        <br/>
-        <!--
-        其他项目模板：复制到这里。
-
-        <a href="项目链接">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AM-SuSh&repo=仓库名&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Repo Card" />
-        </a>
-        <p><b>项目名 · 一句话定位</b><br/>项目简介</p>
-        <ul align="left">
-          <li>项目亮点 1</li>
-          <li>项目亮点 2</li>
-        </ul>
-        <p>🔗 项目链接</p>
+        工具类项目模板：
+        <blockquote>
+          <p><b><a href="项目链接">项目名</a></b><br/>一句项目简介。</p>
+        </blockquote>
         -->
       </details>
     </td>
