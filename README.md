@@ -46,5 +46,152 @@
 <!-- 动态活动贡献图 -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AM-SuSh&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=79C0FF&point=FF6B6B" alt="Contribution Graph" width="100%"/>
 
+### 🚀 已完成项目
+
+<details open>
+<summary><b>🧪 研发类 / AI & R&D</b></summary>
+<br/>
+
+<details open>
+<summary><b>PPTAS · PPT Agent System</b></summary>
+<br/>
+
+> AI-powered system that turns static PPT courseware into an interactive self-study assistant.<br/>
+> 基于大模型的 PPT 内容扩展智能体，让静态课件变成可检索、可扩展、可复习的学习系统。
+
+<p align="center">
+  <a href="https://github.com/AM-SuSh/PPTAS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AM-SuSh&repo=PPTAS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="PPTAS Repo Card" />
+  </a>
+</p>
+
+- 自动识别 PPT 章节层级与核心论点，辅助构建完整知识框架
+- 支持思维导图、语义检索、外部资源扩展和智能笔记生成
+- 我主要负责：前端设计与开发优化、页面预览交互、思维导图显示优化、语义检索与向量数据库、外部资源搜索
+
+🔗 https://github.com/AM-SuSh/PPTAS
+
+</details>
+
+<!--
+项目位置预留：复制下面这段，填入你的下一个已完成项目。
+
+<details>
+<summary><b>项目名 · 一句话定位</b></summary>
+<br/>
+
+> English one-line intro.
+> 中文一句话介绍。
+
+<p align="center">
+  <a href="项目链接">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AM-SuSh&repo=仓库名&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Repo Card" />
+  </a>
+</p>
+
+- 项目亮点 1
+- 项目亮点 2
+- 你的负责内容
+
+🔗 项目链接
+
+</details>
+-->
+
+</details>
+
+<details>
+<summary><b>🛠️ 工具类 / Tools</b></summary>
+<br/>
+
+<!--
+工具类项目位置预留：复制下面这段，填入你的工具项目。
+
+<details>
+<summary><b>项目名 · 一句话定位</b></summary>
+<br/>
+
+> English one-line intro.
+> 中文一句话介绍。
+
+<p align="center">
+  <a href="项目链接">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AM-SuSh&repo=仓库名&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Repo Card" />
+  </a>
+</p>
+
+- 项目亮点 1
+- 项目亮点 2
+- 你的负责内容
+
+🔗 项目链接
+
+</details>
+-->
+
+</details>
+
+<details>
+<summary><b>🎨 前端 / 可视化类 · Frontend & Visualization</b></summary>
+<br/>
+
+<!--
+前端/可视化项目位置预留：复制下面这段，填入你的前端或可视化项目。
+
+<details>
+<summary><b>项目名 · 一句话定位</b></summary>
+<br/>
+
+> English one-line intro.
+> 中文一句话介绍。
+
+<p align="center">
+  <a href="项目链接">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AM-SuSh&repo=仓库名&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Repo Card" />
+  </a>
+</p>
+
+- 项目亮点 1
+- 项目亮点 2
+- 你的负责内容
+
+🔗 项目链接
+
+</details>
+-->
+
+</details>
+
+<details>
+<summary><b>📦 其他项目 / Others</b></summary>
+<br/>
+
+<!--
+其他项目位置预留：复制下面这段，填入你的其他已完成项目。
+
+<details>
+<summary><b>项目名 · 一句话定位</b></summary>
+<br/>
+
+> English one-line intro.
+> 中文一句话介绍。
+
+<p align="center">
+  <a href="项目链接">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AM-SuSh&repo=仓库名&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Repo Card" />
+  </a>
+</p>
+
+- 项目亮点 1
+- 项目亮点 2
+- 你的负责内容
+
+🔗 项目链接
+
+</details>
+-->
+
+</details>
+
 ---
 </div>
