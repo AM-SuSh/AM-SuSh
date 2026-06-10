@@ -55,7 +55,12 @@
     <td width="50%" valign="top" align="center">
       <details>
         <summary>
-          <img src="./assets/ai-category.svg" width="540" alt="AI 研发类：Agents、RAG、Research，共 4 个项目" />
+          <br/>
+          <font face="Times New Roman, KaiTi, STKaiti" size="5"><b>AI 研发类</b></font><br/>
+          <font face="Times New Roman, KaiTi, STKaiti"><i>Agents · RAG · Research</i></font><br/><br/>
+          <kbd>OPEN DRAWER</kbd>&nbsp;&nbsp;<kbd>4 PROJECTS</kbd>
+          <br/><br/>
+          <span aria-hidden="true">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span>
         </summary>
         <br/>
         <blockquote>
@@ -94,7 +99,12 @@
     <td width="50%" valign="top" align="center">
       <details>
         <summary>
-          <img src="./assets/tools-category.svg" width="540" alt="工具类：OpenRank、2LL、SoFT，共 3 个项目" />
+          <br/>
+          <font face="Times New Roman, KaiTi, STKaiti" size="5"><b>工具类 / Tools</b></font><br/>
+          <font face="Times New Roman, KaiTi, STKaiti"><i>OpenRank · 2LL · SoFT</i></font><br/><br/>
+          <kbd>OPEN DRAWER</kbd>&nbsp;&nbsp;<kbd>3 PROJECTS</kbd>
+          <br/><br/>
+          <span aria-hidden="true">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span>
         </summary>
         <br/>
         <blockquote>
