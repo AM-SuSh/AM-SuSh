@@ -55,40 +55,34 @@
     <td width="50%" valign="top" align="center">
       <details>
         <summary>
-          <font face="Times New Roman, KaiTi, STKaiti" size="4"><b>🧪 AI 研发类</b></font><br/>
-          <font face="Times New Roman, KaiTi, STKaiti"><i>Agents · RAG · Research</i></font><br/>
-          <img src="https://img.shields.io/badge/OPEN-DRAWER-58A6FF?style=flat-square&labelColor=0D1117" alt="Open drawer" />
-          <img src="https://img.shields.io/badge/PROJECTS-4-2EA043?style=flat-square&labelColor=0D1117" alt="Four projects" />
+          <img src="./assets/ai-category.svg" width="540" alt="AI 研发类：Agents、RAG、Research，共 4 个项目" />
         </summary>
         <br/>
         <blockquote>
           <p>
             <b><a href="https://github.com/AM-SuSh/PPTAS">PPTAS · PPT Agent System</a></b><br/>
-            将静态 PPT 转化为可检索、可扩展、可复习的 AI 学习系统。
+            PPT——AI 学习系统
           </p>
         </blockquote>
+        <p><i>—— Code exists. Still evolving. ——</i></p>
         <blockquote>
           <p>
             <b>PaperLens</b><br/>
-            论文阅读与研究整理工具，聚焦文献解析、重点提取和研究线索梳理。<br/>
-            <i>镜头还在对焦。</i>
+            智能论文阅读平台<br/>
           </p>
         </blockquote>
         <blockquote>
           <p>
             <b>AAIC</b><br/>
-            仍在打磨中的 AI 研发项目，核心能力暂不公开。<br/>
-            <i>实验进行中。</i>
+            AI伴侣严肃分析<br/>
           </p>
         </blockquote>
         <blockquote>
           <p>
             <b>smart-grid-web</b><br/>
-            智能电网数据、运行状态与调度信息的可视化 Web 系统。<br/>
-            <i>页面还在蓄能。</i>
+            智能电网分析系统<br/>
           </p>
         </blockquote>
-        <p><i>Code exists. Still evolving. 保密期还没过呢。</i></p>
       </details>
       <!--
       AI 研发类项目模板：
@@ -100,28 +94,25 @@
     <td width="50%" valign="top" align="center">
       <details>
         <summary>
-          <font face="Times New Roman, KaiTi, STKaiti" size="4"><b>🛠️ 工具类 / Tools</b></font><br/>
-          <font face="Times New Roman, KaiTi, STKaiti"><i>OpenRank · 2LL · SoFT</i></font><br/>
-          <img src="https://img.shields.io/badge/OPEN-DRAWER-58A6FF?style=flat-square&labelColor=0D1117" alt="Open drawer" />
-          <img src="https://img.shields.io/badge/PROJECTS-3-2EA043?style=flat-square&labelColor=0D1117" alt="Three projects" />
+          <img src="./assets/tools-category.svg" width="540" alt="工具类：OpenRank、2LL、SoFT，共 3 个项目" />
         </summary>
         <br/>
         <blockquote>
           <p>
             <b><a href="https://github.com/SSSSizn/OpenRank">OpenRank</a></b><br/>
-            Python 开源生态依赖分析工具，覆盖静态检查、版本建议和可视化仪表盘。
+            Python 开源生态依赖分析工具
           </p>
         </blockquote>
         <blockquote>
           <p>
             <b><a href="https://github.com/AM-SuSh/2LL">2LL</a></b><br/>
-            双栏中英 Markdown 编辑器，支持 LLM 翻译、同步滚动和 PDF 导出。
+            双栏中英 Markdown 编辑器
           </p>
         </blockquote>
         <blockquote>
           <p>
             <b><a href="https://github.com/AM-SuSh/SoFT">SoFT</a></b><br/>
-            Windows 本地专注工作台，整合计时、DDL、任务优先级和日历。
+            本地专注工作台
           </p>
         </blockquote>
         <!--
