@@ -108,7 +108,7 @@
       <h3 align="left">🔹 <a href="https://github.com/AM-SuSh/2LL">2LL</a></h3>
       <blockquote>
         <p align="left">
-          LLM-powered bilingual Markdown workspace.<br/>
+          Dual-pane Markdown editor for bilingual editing<br/>
           面向双语编辑的双栏 Markdown 编辑器
         </p>
       </blockquote>
@@ -133,7 +133,7 @@
       <h3 align="left">🔹 <a href="https://github.com/AM-SuSh/SoFT">SoFT</a></h3>
       <blockquote>
         <p align="left">
-          A focused local workspace built for Windows.<br/>
+          An integrated local workspace for focused timing, task planning, and schedule management.<br/>
           整合专注计时、任务规划与日程管理的本地工作台
         </p>
       </blockquote>
