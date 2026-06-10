@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="140" viewBox="0 0 540 140">
+  <rect x="1" y="1" width="538" height="138" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <rect x="1" y="1" width="8" height="138" rx="4" fill="#58a6ff"/>
+  <text x="34" y="48" fill="#f0f6fc" font-family="Times New Roman, KaiTi, STKaiti, serif" font-size="28" font-weight="700">AI 研发类</text>
+  <text x="34" y="78" fill="#8b949e" font-family="Times New Roman, KaiTi, STKaiti, serif" font-size="18" font-style="italic">Agents · RAG · Research</text>
+  <rect x="34" y="98" width="92" height="26" rx="4" fill="#1f6feb"/>
+  <text x="80" y="117" text-anchor="middle" fill="#ffffff" font-family="Times New Roman, serif" font-size="14" font-weight="700">OPEN</text>
+  <rect x="136" y="98" width="118" height="26" rx="4" fill="#21262d"/>
+  <text x="195" y="117" text-anchor="middle" fill="#f0f6fc" font-family="Times New Roman, serif" font-size="14">4 PROJECTS</text>
+</svg>
