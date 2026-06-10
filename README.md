@@ -50,51 +50,48 @@
 
 <font face="Times New Roman, KaiTi, STKaiti">
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top" align="center">
-      <details open>
+      <details>
         <summary>
           <font face="Times New Roman, KaiTi, STKaiti" size="4"><b>🧪 AI 研发类</b></font><br/>
-          <font face="Times New Roman, KaiTi, STKaiti"><i>LLM Agent · Semantic Retrieval · Knowledge System</i></font><br/>
-          <img src="https://img.shields.io/badge/OPEN-DRAWER-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Open drawer" />
-          <img src="https://img.shields.io/badge/PROJECTS-4-2EA043?style=for-the-badge&labelColor=0D1117" alt="Four projects" />
+          <font face="Times New Roman, KaiTi, STKaiti"><i>Agents · RAG · Research</i></font><br/>
+          <img src="https://img.shields.io/badge/OPEN-DRAWER-58A6FF?style=flat-square&labelColor=0D1117" alt="Open drawer" />
+          <img src="https://img.shields.io/badge/PROJECTS-4-2EA043?style=flat-square&labelColor=0D1117" alt="Four projects" />
         </summary>
         <br/>
         <a href="https://github.com/AM-SuSh/PPTAS">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AM-SuSh&repo=PPTAS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="PPTAS Repo Card" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AM-SuSh&repo=PPTAS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="PPTAS Repo Card" width="100%" />
         </a>
         <p>
           <b>PPTAS · PPT Agent System</b><br/>
-          AI-powered system that turns static PPT courseware into an interactive self-study assistant.<br/>
-          基于大模型的 PPT 内容扩展智能体，让静态课件变成可检索、可扩展、可复习的学习系统。
+          将静态 PPT 转化为可检索、可扩展、可复习的 AI 学习系统，覆盖结构分析、思维导图、语义检索与智能笔记。
         </p>
-        <ul align="left">
-          <li>自动识别 PPT 章节层级与核心论点，辅助构建完整知识框架</li>
-          <li>支持思维导图、语义检索、外部资源扩展和智能笔记生成</li>
-        </ul>
-        <p>🔗 https://github.com/AM-SuSh/PPTAS</p>
+        <p><a href="https://github.com/AM-SuSh/PPTAS"><b>View repository →</b></a></p>
         <hr/>
         <p>
-          <img src="https://img.shields.io/badge/PRIVATE_LAB-Code_exists-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Private lab" />
-          <img src="https://img.shields.io/badge/STILL-Evolving-8B949E?style=for-the-badge&labelColor=0D1117" alt="Still evolving" />
+          <img src="https://img.shields.io/badge/PRIVATE-LAB-58A6FF?style=flat-square&labelColor=0D1117" alt="Private lab" />
+          <img src="https://img.shields.io/badge/STILL-EVOLVING-8B949E?style=flat-square&labelColor=0D1117" alt="Still evolving" />
         </p>
-        <table>
+        <table width="100%">
           <tr>
-            <td width="33%" valign="top" align="center">
+            <td width="50%" valign="top" align="center">
               <p><b><a href="https://github.com/AM-SuSh/PaperLens">PaperLens</a></b></p>
-              <p>面向论文阅读与研究整理的智能工具，聚焦文献解析、重点提取和研究线索梳理。</p>
-              <p><i>你来早了，镜头还在对焦中。</i></p>
+              <p>论文阅读与研究整理工具，聚焦解析、重点提取和线索梳理。</p>
+              <p><i>镜头还在对焦。</i></p>
             </td>
-            <td width="33%" valign="top" align="center">
+            <td width="50%" valign="top" align="center">
               <p><b><a href="https://github.com/AM-SuSh/AAIC">AAIC</a></b></p>
-              <p>一个仍在打磨中的 AI 研发项目，代码已经存在，核心能力还在保密期里慢慢长出来。</p>
-              <p><i>先别敲门，实验还在冒泡。</i></p>
+              <p>仍在打磨中的 AI 研发项目，核心能力暂不公开。</p>
+              <p><i>实验进行中。</i></p>
             </td>
-            <td width="33%" valign="top" align="center">
+          </tr>
+          <tr>
+            <td colspan="2" valign="top" align="center">
               <p><b><a href="https://github.com/SSSSizn/smart-grid-web">smart-grid-web</a></b></p>
-              <p>面向智能电网场景的 Web 系统，探索能源数据、运行状态和调度信息的可视化表达。</p>
-              <p><i>电流已接通，页面还在蓄能。</i></p>
+              <p>智能电网数据、运行状态与调度信息的可视化 Web 系统。</p>
+              <p><i>页面还在蓄能。</i></p>
             </td>
           </tr>
         </table>
@@ -119,52 +116,37 @@
       <details>
         <summary>
           <font face="Times New Roman, KaiTi, STKaiti" size="4"><b>🛠️ 工具类 / Tools</b></font><br/>
-          <font face="Times New Roman, KaiTi, STKaiti"><i>Dependency Analysis · Markdown Editing · Focus Toolkit</i></font><br/>
-          <img src="https://img.shields.io/badge/OPEN-DRAWER-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Open drawer" />
-          <img src="https://img.shields.io/badge/PROJECTS-3-2EA043?style=for-the-badge&labelColor=0D1117" alt="Three projects" />
+          <font face="Times New Roman, KaiTi, STKaiti"><i>OpenRank · 2LL · SoFT</i></font><br/>
+          <img src="https://img.shields.io/badge/OPEN-DRAWER-58A6FF?style=flat-square&labelColor=0D1117" alt="Open drawer" />
+          <img src="https://img.shields.io/badge/PROJECTS-3-2EA043?style=flat-square&labelColor=0D1117" alt="Three projects" />
         </summary>
         <br/>
         <a href="https://github.com/SSSSizn/OpenRank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SSSSizn&repo=OpenRank&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="OpenRank Repo Card" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SSSSizn&repo=OpenRank&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="OpenRank Repo Card" width="100%" />
         </a>
         <p>
           <b>OpenRank · Python Open Source Dependency Analyzer</b><br/>
-          面向 Python 开源生态的依赖分析工具套件：从 GitHub 仓库采样、静态依赖检查到 AI 辅助生成 requirements/Dockerfile，并提供浏览器扩展与 Web 可视化仪表盘。
+          Python 开源生态依赖分析工具，覆盖静态检查、兼容版本建议、浏览器扩展和 Web 仪表盘。
         </p>
-        <ul align="left">
-          <li>分析依赖文件完整性、导入一致性、版本滞后和环境问题</li>
-          <li>结合版本知识库，为 Python 项目提供兼容包版本建议</li>
-          <li>通过扩展和仪表盘，把仓库健康度评估直接带到使用场景里</li>
-        </ul>
-        <p>🔗 https://github.com/SSSSizn/OpenRank</p>
+        <p><a href="https://github.com/SSSSizn/OpenRank"><b>View repository →</b></a></p>
         <hr/>
         <a href="https://github.com/AM-SuSh/2LL">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AM-SuSh&repo=2LL&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="2LL Repo Card" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AM-SuSh&repo=2LL&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="2LL Repo Card" width="100%" />
         </a>
         <p>
           <b>2LL · Bilingual Markdown Workspace</b><br/>
-          左中文、右英文的双栏 Markdown 编辑器：用 LLM 一键翻译填充英文栏，支持同步滚动、双语预览、自动保存和 PDF 导出。
+          双栏中英 Markdown 编辑器，支持 LLM 翻译、同步滚动、自动保存、双语预览和 PDF 导出。
         </p>
-        <ul align="left">
-          <li>React + TypeScript + Vite + Monaco 打造双栏编辑体验</li>
-          <li>FastAPI 提供 OpenAI 兼容翻译接口，未配置 Key 时可本地 mock 演示</li>
-          <li>面向中英内容写作、翻译校对和双语文档交付</li>
-        </ul>
-        <p>🔗 https://github.com/AM-SuSh/2LL</p>
+        <p><a href="https://github.com/AM-SuSh/2LL"><b>View repository →</b></a></p>
         <hr/>
         <a href="https://github.com/AM-SuSh/SoFT">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AM-SuSh&repo=SoFT&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="SoFT Repo Card" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AM-SuSh&repo=SoFT&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="SoFT Repo Card" width="100%" />
         </a>
         <p>
           <b>SoFT · Story of Focus Time</b><br/>
-          运行在 Windows 上的本地专注管理工具：把番茄钟、DDL 提醒、任务优先级和日历连接收进一个轻量桌面工作台。
+          Windows 本地专注工作台，整合计时、DDL、动态任务优先级和 Outlook/.ics 日历。
         </p>
-        <ul align="left">
-          <li>支持专注/休息循环、每日目标和桌面悬浮计时器</li>
-          <li>按任务权重与截止时间动态计算优先级，临近和逾期任务自动前置</li>
-          <li>可连接经典 Outlook 日历，也支持标准 .ics 文件导入导出</li>
-        </ul>
-        <p>🔗 https://github.com/AM-SuSh/SoFT</p>
+        <p><a href="https://github.com/AM-SuSh/SoFT"><b>View repository →</b></a></p>
         <!--
         工具类项目模板：复制到上方 details 内继续添加。
 
@@ -187,9 +169,9 @@
       <details>
         <summary>
           <font face="Times New Roman, KaiTi, STKaiti" size="4"><b>🎨 前端 / 可视化类</b></font><br/>
-          <font face="Times New Roman, KaiTi, STKaiti"><i>Vue · Interaction · Data Visualization</i></font><br/>
-          <img src="https://img.shields.io/badge/OPEN-DRAWER-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Open drawer" />
-          <img src="https://img.shields.io/badge/READY-SLOT-8B949E?style=for-the-badge&labelColor=0D1117" alt="Ready slot" />
+          <font face="Times New Roman, KaiTi, STKaiti"><i>Web · UI · Visualization</i></font><br/>
+          <img src="https://img.shields.io/badge/OPEN-DRAWER-58A6FF?style=flat-square&labelColor=0D1117" alt="Open drawer" />
+          <img src="https://img.shields.io/badge/READY-SLOT-8B949E?style=flat-square&labelColor=0D1117" alt="Ready slot" />
         </summary>
         <br/>
         <!--
@@ -211,9 +193,9 @@
       <details>
         <summary>
           <font face="Times New Roman, KaiTi, STKaiti" size="4"><b>📦 其他项目 / Others</b></font><br/>
-          <font face="Times New Roman, KaiTi, STKaiti"><i>Coursework · Experiments · Side Projects</i></font><br/>
-          <img src="https://img.shields.io/badge/OPEN-DRAWER-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Open drawer" />
-          <img src="https://img.shields.io/badge/READY-SLOT-8B949E?style=for-the-badge&labelColor=0D1117" alt="Ready slot" />
+          <font face="Times New Roman, KaiTi, STKaiti"><i>Coursework · Experiments</i></font><br/>
+          <img src="https://img.shields.io/badge/OPEN-DRAWER-58A6FF?style=flat-square&labelColor=0D1117" alt="Open drawer" />
+          <img src="https://img.shields.io/badge/READY-SLOT-8B949E?style=flat-square&labelColor=0D1117" alt="Ready slot" />
         </summary>
         <br/>
         <!--
