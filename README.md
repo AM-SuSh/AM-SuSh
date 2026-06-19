@@ -105,16 +105,16 @@
       <p align="left"><i>Testing. Welcome to join our beta!</i></p>
     </td>
     <td width="824" valign="top" align="left">
-      <h3 align="left">🔹 <a href="https://github.com/AM-SuSh/2LL">2LL</a></h3>
+      <h3 align="left">🔹 <a href="https://github.com/AM-SuSh/MiniMR">MiniMR</a></h3>
       <blockquote>
         <p align="left">
-          Dual-pane Markdown editor for bilingual editing<br/>
-          面向双语编辑的双栏 Markdown 编辑器
+          A lightweight, pseudo-distributed MapReduce system based on Go.<br/>
+          基于go的轻量级伪分布式mapreduce系统
         </p>
       </blockquote>
       <ul align="left">
-        <li>中英双语 · 双栏同步滚动</li>
-        <li>Markdown 编辑 · PDF 导出</li>
+        <li>工程深化 · 多重容错</li>
+        <li>多种模式测试与可视化仪表盘</li>
       </ul>
     </td>
   </tr>
@@ -161,14 +161,27 @@
       <p align="left"><i>Private status.</i></p>
       -->
     </td>
+     <td width="824" valign="top" align="left">
+          <h3 align="left">🔹 <a href="https://github.com/AM-SuSh/2LL">2LL</a></h3>
+          <blockquote>
+            <p align="left">
+              Dual-pane Markdown editor for bilingual editing<br/>
+              面向双语编辑的双栏 Markdown 编辑器
+            </p>
+          </blockquote>
+          <ul align="left">
+            <li>中英双语 · 双栏同步滚动</li>
+            <li>Markdown 编辑 · PDF 导出</li>
+          </ul>
+        </td>
+<!--
     <td width="824" valign="top" align="left">
-      <!--
       工具类项目模板：
       <h3 align="left">🔹 <a href="项目链接">项目名</a></h3>
       <blockquote><p align="left">English intro.<br/>中文简介。</p></blockquote>
       <ul align="left"><li>能力一</li><li>能力二</li></ul>
-      -->
     </td>
+-->
   </tr>
 </table>
 
